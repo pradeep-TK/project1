@@ -2,7 +2,7 @@
 
 
 # Wikipedia data analysis
-In this project we have analyzed the datasets of Wikipedia English article traffic using different tools and obtained the desired for questions given.
+In this project we have analyzed the datasets of Wikipedia English article traffic using different tools and obtained the desired results for questions given.
 
 # Problem Statement
 The following are the questions analyzed.
@@ -22,8 +22,17 @@ The following are the questions analyzed.
 >Python
 >Git/Github
 
+# Features
+1.Find, organize, and format pageviews on any given day.
+2.Follow clickstreams to find relative frequencies of different pages.
+3.Determine relative popularity of page access methods.
+4.Compare yearly popularity of pages.
+
 # Datasets used
 >Pageviews Filtered to Human Traffic
-https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
+https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews  
 >Monthly Clickstream
 https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
+
+# Reference
+https://github.com/samye760/Wikipedia-Big-Data-Analysis
